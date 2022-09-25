@@ -3,10 +3,9 @@
 ## Table of content
 
 - [Description](#description)
-- [How to Run the Application](#howtorun)
+- [Setting Up and Running the Application](#setting)
 - [Roadmap of Future Improvements](#roadmap)
 - [License](#license)
-- [Demo](#demo)
 
 ## Description
 This exercise uses React along with javascript to create a to do list.  The Bootstrap framework is used as the style guide. You can type in new tasks and hit enter or click the <b>Add Task</b> button to add a new item to the list.  An "X" button on each task allows you to delete.  Clicking the checked button will mark it as complete.
